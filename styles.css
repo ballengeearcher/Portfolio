@@ -17,6 +17,7 @@
  }
 
  /* !!!!Body Portion of the Page !!!!*/
+
  main {
     text-align: center;
     background-color: beige;
@@ -27,7 +28,6 @@
     margin-left: 25%;
     margin-right: 25%;
  }
- 
  
  .starter {
     padding-top: 20px;
@@ -46,8 +46,6 @@
   
  }
  
- 
-
  .about-sect {
     font-size: 18px;
     font-family: Arial, Helvetica, sans-serif;
@@ -61,6 +59,7 @@
     padding-bottom: 75px;
     
  }
+/* !!!! Footer Portion of the Page !!!!*/
 
  footer {
     background-color: #608278;

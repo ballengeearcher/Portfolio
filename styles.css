@@ -57,10 +57,14 @@
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
     padding-bottom: 75px;
+ }
 
   a: hover {
    color: #fafafa;
     }
+a: visited {
+ color : green
+}
  
 /* !!!! Footer Portion of the Page !!!!*/
 

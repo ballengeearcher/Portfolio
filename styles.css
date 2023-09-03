@@ -59,11 +59,11 @@
     padding-bottom: 75px;
  }
 
-  a:hover {
-   color: white;
+a:hover {
+   color: #fcfafa;
     }
 a:visited {
- color : green;
+ color: green;
 }
  
 /* !!!! Footer Portion of the Page !!!!*/
